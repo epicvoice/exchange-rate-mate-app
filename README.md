@@ -11,3 +11,5 @@ Exchange Rate Mate is a modern and simple web app to check the latest currency e
 - Swap currencies (coming soon)
 - Live currency rates (coming soon)
 - Works on desktop and mobile devices
+
+![Screenshot of the App](img/screenshot1.png)
